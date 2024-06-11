@@ -5,7 +5,6 @@
 
 <div align="center">
   <h1 align="center">Hey, I'm Sen 👋</h1><br>
-    <img src="https://i.ibb.co/qMXhtzN/templeos-el.png" alt="templeos-elephant height="30" width="200" />
 </div>
 
 <br>
